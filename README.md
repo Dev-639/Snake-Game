@@ -1,15 +1,16 @@
 A classic Snake game built using Java and Swing. The player controls the snake to eat food, growing in length with each bite. The objective is to avoid colliding with the walls or the snake's own body while aiming for the highest possible score.
 
 🎮 Features
-Smooth snake movement using keyboard controls
 
-Score tracking system
+1.Smooth snake movement using keyboard controls
 
-Game Over detection on collisions
+2.Score tracking system
 
-Simple and clean GUI using Java Swing
+3.Game Over detection on collisions
 
-Easily extendable and beginner-friendly codebase
+4.Simple and clean GUI using Java Swing
+
+5.Easily extendable and beginner-friendly codebase
 
 🛠️ Tech Stack
 Language: Java
@@ -18,9 +19,11 @@ GUI: Java Swing
 
 IDE: IntelliJ IDEA / Eclipse
 
+
 🚀 How to Run
-Clone the repository
 
-Open the project in your preferred IDE
+1.Clone the repository
 
-Run the Main.java file
+2.Open the project in your preferred IDE
+
+3.Run the Main.java file
